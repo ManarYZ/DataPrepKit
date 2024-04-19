@@ -82,7 +82,7 @@ class DataPrepKit:
 # Usage Example
 
 # Initialize DataPrepKit object with file path
-dataprep = DataPrepKit("C:\\Users\\User\\Desktop\\package_container\\DataPrepKitt\\reviews.csv")
+dataprep = DataPrepKit("reviews.csv")
 
 # Generate data summary
 summary = dataprep.data_summary()
